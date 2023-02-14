@@ -1,4 +1,4 @@
-### Hi there, I'm Sara, a full Stack React Web Developer. 
+### Hi there, I'm Sara, a full stack React web developer. 
 🦄 Because Single-Stack Developers Just Don't Stack Up 🦄 
 
 ## Projects:
