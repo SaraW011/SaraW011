@@ -1,5 +1,5 @@
-### Hi there, I'm Sara, a full stack web developer. 
-🦄 Because Single-Stack Developers Just Don't Stack Up 🦄 
+### Hi there, I'm Sara, a full-stack web & Flutter (mobile) developer. 
+🦄 Widgets are not just a thing economics professors use, they are real!🦄 
 
 ## Projects:
 
