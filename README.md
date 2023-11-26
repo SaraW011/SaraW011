@@ -3,7 +3,7 @@
 
 ## Projects:
 
-<font color="green"> ### Rental Scraper with Puppeteer </font>
+<span style="color:green"> ### Rental Scraper with Puppeteer </span>
 [Link to repo](https://github.com/SaraW011/Yad-2-Puppeteer-Rental-Scraper/edit/main/README.md)
 
 Scrape apartment rental prices, get the average and mean prices of local rentals from Yad-2 (Hebrew IL) [site](https://www.yad2.co.il/realestate/rent)
