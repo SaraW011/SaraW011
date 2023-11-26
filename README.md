@@ -2,8 +2,8 @@
 🦄 Widgets are not just a thing economics professors use, they are real!🦄 
 
 ## Projects:
-
-### <span style="color:green"> Rental Scraper with Puppeteer </span>
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+### Rental Scraper with Puppeteer
 [Link to repo](https://github.com/SaraW011/Yad-2-Puppeteer-Rental-Scraper/edit/main/README.md)
 
 Scrape apartment rental prices, get the average and mean prices of local rentals from Yad-2 (Hebrew IL) [site](https://www.yad2.co.il/realestate/rent)
