@@ -1,5 +1,5 @@
 ### Hi there, I'm Sara, a full-stack web & Flutter (mobile) developer. 
-🦄 Widgets are not just things econ professors talk about, they are fo real!🦄 
+🦄 Widgets aren’t just economics theory, they’re the fun part of turning code into something people love to use.🦄 
 
 ## Projects:
 ### 🦄Rental Scraper with Puppeteer
