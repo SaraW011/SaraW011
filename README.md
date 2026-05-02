@@ -1,4 +1,4 @@
-### Hi there, I'm Sara, a full-stack web & Flutter (mobile) developer. 
+### Hi, I'm Sara, a Mobile Developer. 
 🦄 Widgets aren’t just economics theory, they’re the fun part of turning code into something people love to use.🦄 
 
 ## Projects:
